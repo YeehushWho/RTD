@@ -13,7 +13,7 @@ The Project was implemented in MATLAB R2023a on a Windows 10 platform.
   * Segments were extracted using the masks provided with the dataset.  
 * Demo 2: `demo_segment_MSI.m`  
   This demonstration utilizes the CAVE public multispectral image (MSI) dataset [Link](https://cave.cs.columbia.edu/repository/Multispectral).  
-  * Segments were extracted via the SLIC superpixel segmentation algorithm \[1\].
+  * Segments were extracted via the SLIC superpixel segmentation algorithm \[2\].
 
 ## **HSI Denoising**
 
